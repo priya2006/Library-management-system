@@ -1,4 +1,4 @@
-This is the Lirary management syatem in c++ language.
+This is the Library management syatem in c++ language.
 
 Made by : 
        Priyanshi Gupta
