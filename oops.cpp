@@ -1021,7 +1021,7 @@ void library::get()
     library *l;
     student1 s;
     librarian1 li;
-    cout<<"\n\t\t** LIBRARY MANAGEMENT SYSTEM **\n"<<"\n\t\t\t C++ Project\n\t\t Made by :- \n\t\t\tPriyanshi Gupta \n\t\t\t Satyam Mishra\n";
+    cout<<"\n\t\t\t\t\t** LIBRARY MANAGEMENT SYSTEM **\n"<<"\n\t\t\t\t\t\tC++ Project\n\n\t\t\t\t     Made by Priyanshi Gupta & Satyam Mishra\n\n";
     cout<<"\n\t\t>>Please Choose Any Option To login \n";
     cout<<"\n\t\t1.Student\n\n\t\t2.Librarian\n\n\t\t3.Close Application\n";
     cout<<"\n\t\tEnter your choice : ";
